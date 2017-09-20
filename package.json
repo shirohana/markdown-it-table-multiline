@@ -1,0 +1,9 @@
+{
+  "name": "markdown-it-table-multiline",
+  "version": "0.0.0",
+  "description": "Wrap lines in markdown-it table to pretty your docs",
+  "main": "index.js",
+  "repository": "https://github.com/shirohana/markdown-it-table-multiline",
+  "author": "Hana Shiro <shirohana0608@gmail.com>",
+  "license": "MIT"
+}
